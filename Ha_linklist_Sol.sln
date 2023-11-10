@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ha_linklist", "Ha_linklist\Ha_linklist.csproj", "{F84CCD7E-89C9-4664-A283-E129653374FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84CCD7E-89C9-4664-A283-E129653374FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84CCD7E-89C9-4664-A283-E129653374FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84CCD7E-89C9-4664-A283-E129653374FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84CCD7E-89C9-4664-A283-E129653374FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5DFCB4-EAD6-4407-BE6D-14A7E6318C75}
+	EndGlobalSection
+EndGlobal
